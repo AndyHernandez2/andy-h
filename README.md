@@ -15,7 +15,7 @@
   It could help with a problem ive been having with a game ive been trying to run.
 
 ### Battle cats emulator
-Ive wanted to play battle cats on my computer 
+Ive wanted to play battle cats on my computer.
 
 ### Ai building
-Would make it eaiser to bulid an ai, and that sounds interesting
+This would make it eaiser to bulid an ai, and that sounds interesting.
