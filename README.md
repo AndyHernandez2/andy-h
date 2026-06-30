@@ -1,10 +1,10 @@
 # About me.
 
-# Skills im learning #
+### Skills im learning #
 - Programming
 - Cooking
-# Interests/Hobbies #
+### Interests/Hobbies #
 - Playing games
 - Drawing
-# Fun Fact #
+### Fun Fact #
 - Racoons are trying to domesticate themselfs in order to get more food from people.
