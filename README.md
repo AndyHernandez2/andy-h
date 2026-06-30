@@ -3,7 +3,7 @@
 # Skills im learning #
 - Programming
 - Cooking
-# interests/Hobbies #
+# Interests/Hobbies #
 - Playing games
 - Drawing
 # Fun Fact #
